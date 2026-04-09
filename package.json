@@ -1,0 +1,7 @@
+{
+  "name": "portfolio-a4-hugo",
+  "private": true,
+  "scripts": {
+    "build": "hugo"
+  }
+}
