@@ -1,7 +1,7 @@
-baseURL = "https://your-netlify-site-name.netlify.app/"
+baseURL = "chipper-cupcake-adcf3c.netlify.app"
 languageCode = "en-us"
 title = "My CET252 CI CD Portfolio Site"
 
 [params]
-  author = "Your Name"
+  author = "Riwaj"
   description = "A simple Hugo site for demonstrating CI/CD with Netlify and GitHub."
