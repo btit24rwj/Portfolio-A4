@@ -4,8 +4,10 @@ date: 2026-04-09
 draft: false
 ---
 
-This is the first published post on my Hugo website.
+This is the updated version of my first Hugo post.
 
-This site was created as part of my CET252 Portfolio A4 task to demonstrate CI/CD using a private GitHub repository and Netlify.
+I made this change to demonstrate continuous deployment for CET252 Portfolio A4.
 
-The website is built from the Hugo source files, not from prebuilt static HTML files alone.
+After pushing this update to my private GitHub repository, Netlify automatically detected the change, started a new build, and published the updated website successfully.
+
+This confirms that the site is deployed through a CI/CD workflow using Hugo, GitHub, and Netlify.
